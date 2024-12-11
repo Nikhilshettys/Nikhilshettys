@@ -1,5 +1,7 @@
 # 💫 About Me:
 I'm currently student
+
+
 I pursuing COMPUTER SCIENCE AND ENGINEERING.I'm intrested in wed development and front development.presently Dedicating effort for innovation and desinging.
 
 

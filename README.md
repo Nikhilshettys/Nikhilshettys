@@ -2,7 +2,8 @@
 I'm currently student.
 
 
-I pursuing Bechelor of Engg in COMPUTER SCIENCE AND ENGINEERING.I'm intrested in wed development and front development.presently Dedicating effort for innovation and desinging.
+I pursuing Bechelor of Engg in COMPUTER SCIENCE AND ENGINEERING.I'm intrested in wed development and front development.presently Dedicating effort to HTML and CSS.
+
 
 
 ## 🌐 Socials:

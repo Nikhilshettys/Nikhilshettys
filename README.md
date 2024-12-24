@@ -6,7 +6,7 @@ presently Dedicating effort to HTML and CSS.
 
 
 
-can u connect me with :E-mail nikhilshettyvsn@gmail.com
+connect me with :E-mail nikhilshettyvsn@gmail.com
 
 
 

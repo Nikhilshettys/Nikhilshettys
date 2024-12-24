@@ -1,8 +1,13 @@
 # 💫 About Me:
-I'm student.
+ Just I'm studing.
 .<br><br>I pursuing Bechelor of Engg in COMPUTER SCIENCE AND ENGINEERING.
 I'm intrested in wed development full stack and front development.
 presently Dedicating effort to HTML and CSS.
+
+
+
+can u connect me with :E-mail nikhilshettyvsn@gmail.com
+
 
 
 ## 🌐 Socials:

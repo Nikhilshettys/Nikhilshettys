@@ -24,8 +24,7 @@ connect me with :E-mail nikhilshettyvsn@gmail.com
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nikhilshettys&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikhilshettys&icon=1&color=1)](https://visitcount.itsvg.in)

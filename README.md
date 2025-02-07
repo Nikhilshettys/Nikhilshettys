@@ -1,12 +1,14 @@
-# 💫 About Me:
- Now I'm Student.
-.<br><br>I pursuing Bechelor of Engg in COMPUTER SCIENCE AND ENGINEERING.
-I'm intrested in wed development full stack and front development.
-presently Dedicating effort to HTML and CSS.
+🎓 Student | Bachelor of Engineering in Computer Science and Engineering
 
+I am currently pursuing my degree in Computer Science and Engineering with a strong passion for web development. My focus lies in full-stack and front-end development, and I am actively honing my skills in HTML and CSS to build a solid foundation.
 
+I am dedicated to learning and growing in the field of web development, with the goal of creating seamless, user-friendly, and visually appealing web experiences.
 
-connect me with :E-mail nikhilshettyvsn@gmail.com
+If you share similar interests or have opportunities to collaborate, feel free to connect with me!
+
+📧 Email: nikhilshettyvsn@gmail.com
+
+#WebDevelopment #FrontEndDevelopment #HTML #CSS #ComputerScience #Coding #StudentLife
 
 
 

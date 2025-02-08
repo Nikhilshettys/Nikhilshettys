@@ -1,6 +1,6 @@
 🎓 Student | Bachelor of Engineering in Computer Science and Engineering
 
-I am currently pursuing my degree in Computer Science and Engineering with a strong passion for web development. My focus in full-stack and front-end development, and I am actively honing my skills in HTML and CSS to build a solid foundation.
+I am currently pursuing B.E in Computer Science and Engineering with a strong passion for web development. My focus in full-stack and front-end development, and I am actively honing my skills in HTML and CSS to build a solid foundation.
 
 I am dedicated to learning and growing in the field of web development, with the goal of creating seamless, user-friendly, and visually appealing web experiences.
 

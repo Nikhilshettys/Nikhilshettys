@@ -1,7 +1,4 @@
-🎓 Student | Bachelor of Engineering in Computer Science and Engineering
-I’m a passionate and motivated Computer Science student actively seeking internship opportunities in Full-Stack Web Development. With hands-on experience in React.js, Node.js, and modern development tools, I enjoy building responsive, dynamic, and user-friendly web applications. 
-From frontend interfaces to backend APIs, I thrive on turning ideas into functional solutions. I’ve worked on several academic and personal projects that reflect my skills in JavaScript, MongoDB, Express.js, and RESTful API development. I’m eager to contribute to real-world projects, learn from industry experts, and grow as a software developer.
-A quick learner with a problem-solving mindset, I thrive in collaborative environments and am excited to work alongside experienced teams. Open to mentorship and committed to delivering clean, efficient code.
+
 
 If you share similar interests or have opportunities to collaborate, feel free to connect with me!
 

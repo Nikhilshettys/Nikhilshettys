@@ -12,8 +12,8 @@
 <!--   <img src="https://komarev.com/ghpvc/?username=karthik1772&label=Profile%20views&color=orange&style=flat" alt="profile views" /> -->
 </p>
 <p align="center">
-  <img src="https://holopin.me/karthik1772" alt="holopin badges" />
-</p>
+<!--   <img src="https://holopin.me/karthik1772" alt="holopin badges" />
+</p> -->
 
 ## 👨‍💻 About Me
 

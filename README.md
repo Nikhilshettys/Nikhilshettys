@@ -1,11 +1,11 @@
-<img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="100%" alt="welcome banner" />
+22<img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="100%" alt="welcome banner" />
 
 <h1 align="center">Hey guys! 👋 I'm NIKHIL</h1>
 <h3 align="center">🚀 Passionate about building impactful fullstack and contributing to the open-source community. Currently exploring advanced concepts in fullstack Development and AI Enthusiast, and building real-world projects with modern technologies!</h3>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Building+Flutter+Apps...;Building+Next.js+Web+Apps...;Loving+Open+Source...;Learning+Full-Stack...;Solving+Real+Problems!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Building+WebApps...;Building+Next.js+Web+Apps...;Loving+Open+Source...;Learning+Full-Stack...;Solving+Real+Problems!" alt="Typing SVG" />
 
 </p>
 <p align="right">

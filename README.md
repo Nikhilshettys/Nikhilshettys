@@ -9,10 +9,10 @@
 
 </p>
 <p align="right">
-<!--   <img src="https://komarev.com/ghpvc/?username=karthik1772&label=Profile%20views&color=orange&style=flat" alt="profile views" /> -->
+<!--   <img src="https://ks&color=orange&style=flat" alt="profile views" /> -->
 </p>
 <p align="center">
-<!--   <img src="https://holopin.me/karthik1772" alt="holopin badges" />
+<!--   <img src="="holopin badges" />
 </p> -->
 
 ## 👨‍💻 About Me
@@ -50,6 +50,7 @@
 </p>
 
 ## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Nikhilshettys&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nikhilshettys&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilshettys&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
@@ -58,6 +59,7 @@
 [![](https://visitcount.itsvg.in/api?id=Nikhilshettys&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 <p align="left"><strong>Thanks for stopping by! Let's connect and build something awesome! 🚀</strong></p>

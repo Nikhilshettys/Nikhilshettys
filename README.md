@@ -44,8 +44,8 @@
 
 <p align="left">
   <a href=""><img src="https://img.icons8.com/color/48/twitter--v1.png" width="50"/></a>
-  <a href=""><img src="https://img.icons8.com/color/48/linkedin.png" width="50"/></a>
-  <a href=""><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50"/></a>
+  <a href="https://www.linkedin.com/in/nikhil-s-shetty-99432a324/"><img src="https://img.icons8.com/color/48/linkedin.png" width="50"/></a>
+  <a href="https://www.instagram.com/mr_nikhilsshetty62/?next=%2Fp%2FDL6gQ9hzYU8%2F%3Fimg_index%3D12"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50"/></a>
   <a href=""><img src="https://img.icons8.com/color/48/domain.png" width="50"/></a>
 </p>
 
